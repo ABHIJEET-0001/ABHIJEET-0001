@@ -1,7 +1,6 @@
 <!-- 🌟 ABHIJEET KASERA | Professional GitHub Profile README 🌟 -->
 
-<div align="center">
-  <img src="https://media.giphy.com/media/TEnXkcsHrP4YedBhlJ/giphy.gif" alt="AI Banner" height="150">
+
 
   <h1>👋 Hello, I'm <span style="color:#00b4d8;">Abhijeet Kasera</span></h1>
   <h3>💻 Software Developer | AI & ML Enthusiast | Data-Driven Thinker</h3>
