@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/ABHIJEET-0001">
-    <img src="https://media.giphy.com/media/TEnXkcsHrP4YedBhlJ/giphy.gif" alt="Logo" height="150">
+   
   </a>
 
   <h1>Hello, World! I'm Abhijeet Kasera 👋</h1>
