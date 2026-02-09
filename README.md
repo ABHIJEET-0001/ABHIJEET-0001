@@ -1,143 +1,130 @@
-<!-- 🌟 ABHIJEET KASERA | Professional GitHub Profile README 🌟 -->
+<!-- ===================== -->
+<!--  Abhijeet Kasera – GitHub Profile README  -->
+<!-- ===================== -->
 
+<h1 align="center">
+  👋 Hi, I'm <span style="color:#00b4d8;">Abhijeet Kasera</span>
+</h1>
 
-
-  <h1>👋 Hello, I'm <span style="color:#00b4d8;">Abhijeet Kasera</span></h1>
-  <h3>💻 Software Developer | AI & ML Enthusiast | Data-Driven Thinker</h3>
-
-  <p><i>Building intelligent systems that turn data into decisions and code into impact.</i></p>
-</div>
-
----
-
-## 🧠 About Me  
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="160">
-
-- 💼 Passionate **Software Developer** with a strong foundation in **Python**, **C++**, and **Java**.  
-- 🧩 Experienced in **Data Structures & Algorithms**, **Backend Development**, and **Machine Learning**.  
-- 🤖 Skilled at solving complex problems through **AI-driven automation**.  
-- 🧠 Focused on **Deep Learning**, **NLP**, and **Computer Vision** applications.  
-- ⚙️ Proficient in **Linux**, **SQL**, and clean, scalable code architecture.  
-- 🚀 Lifelong learner — always exploring, building, and optimizing intelligent systems.  
-
----
-
-## 🛠️ Tech Stack
+<h3 align="center">
+  Software Developer • AI & Machine Learning Engineer • Data-Driven Problem Solver
+</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"><br>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-  <img src="https://img.shields.io/badge/DSA-FF5733?style=for-the-badge&logo=leetcode&logoColor=white">
+  <i>Designing intelligent systems that transform data into insight and ideas into scalable solutions.</i>
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## 👨‍💻 Professional Summary
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🤖 AI Task Management System</h3>
-      <p>An AI-powered dashboard that classifies, prioritizes, and auto-assigns tasks using NLP & ML. Built with Streamlit and Python for enterprise workflow automation.</p>
-      <div>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python">
-        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit">
-        <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas">
-        <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=plotly">
-      </div>
-      <br>
-      <a href="https://aitaskmanager28-bxahukjkzparonrie229uy.streamlit.app/" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-007ACC?style=for-the-badge"></a>
-    </td>
-    <td width="50%" valign="top">
-      <img src="https://via.placeholder.com/400x250.png?text=AI+Task+Manager+Dashboard" alt="AI Task Manager">
-    </td>
-  </tr>
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="150"/>
 
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🎯 AI Career & Skills Advisor</h3>
-      <p>AI-driven career recommendation chatbot that suggests personalized learning paths and career goals based on user input using NLP intelligence.</p>
-      <div>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript">
-        <img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat&logo=openai">
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5">
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3">
-      </div>
-      <br>
-      <a href="https://sunny-rabanadas-bd1f6f.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-007ACC?style=for-the-badge"></a>
-    </td>
-    <td width="50%" valign="top">
-      <img src="https://via.placeholder.com/400x250.png?text=AI+Career+Advisor" alt="Career Advisor">
-    </td>
-  </tr>
+I am a **software developer and AI/ML engineer** with a strong foundation in **computer science fundamentals**, **data structures**, and **machine learning systems**.  
+I specialize in building **intelligent, scalable, and production-ready applications** that combine solid backend engineering with applied AI.
 
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🚦 AI Smart Traffic Management</h3>
-      <p>Real-time traffic monitoring and adaptive signal control system powered by YOLOv8 & OpenCV for intelligent city mobility.</p>
-      <div>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python">
-        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv">
-        <img src="https://img.shields.io/badge/YOLOv8-FF6F00?style=flat&logo=yolo">
-      </div>
-    </td>
-    <td width="50%" valign="top">
-      <img src="https://via.placeholder.com/400x250.png?text=Smart+Traffic+System" alt="Traffic Project">
-    </td>
-  </tr>
-
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🐾 ANIMUS – Animal Safety System</h3>
-      <p>AI-based rescue & alert platform to ensure animal and human safety on highways using geolocation and ML analytics.</p>
-      <div>
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi">
-        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase">
-        <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android">
-      </div>
-    </td>
-    <td width="50%" valign="top">
-      <img src="https://via.placeholder.com/400x250.png?text=ANIMUS+App" alt="ANIMUS Project">
-    </td>
-  </tr>
-
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🎬 Movie Recommendation Engine</h3>
-      <p>ML-based movie recommender using collaborative filtering and NLP-based content matching, deployed via Streamlit.</p>
-      <div>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python">
-        <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn">
-        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit">
-      </div>
-    </td>
-    <td width="50%" valign="top">
-      <img src="https://via.placeholder.com/400x250.png?text=Movie+Recommender" alt="Movie Project">
-    </td>
-  </tr>
-</table>
+- Strong command of **Python, C++, and Java**
+- Experienced in **Machine Learning, NLP, and Computer Vision**
+- Hands-on with **backend systems, APIs, and data pipelines**
+- Passionate about **clean architecture, performance, and real-world impact**
+- Continuous learner focused on **research-backed and industry-aligned development**
 
 ---
 
-## 📊 GitHub Analytics
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ABHIJEET-0001&show_icons=true&theme=tokyonight&hide_border=true" height="180">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ABHIJEET-0001&theme=tokyonight&hide_border=true" height="180">
-  <br><br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ABHIJEET-0001&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph">
-</div>
+## 🛠️ Technical Skills
+
+### Programming & Core CS
+- **Python, C++, Java**
+- Data Structures & Algorithms
+- Object-Oriented Design
+- Linux & Shell Scripting
+
+### AI / Machine Learning
+- Machine Learning & Model Evaluation
+- Deep Learning (CNNs, NLP pipelines)
+- Computer Vision (OpenCV, YOLO)
+- Feature Engineering & Data Analysis
+
+### Frameworks & Tools
+- Pandas, NumPy, scikit-learn
+- PyTorch
+- Streamlit
+- FastAPI
+- SQL & Relational Databases
 
 ---
 
-<div align="center">
-  <i>“Code. Learn. Build. Repeat.”</i><br>
-  <b>Made with ❤️ by Abhijeet Kasera</b>
-</div>
+## 🚀 Selected Projects
+
+### 🤖 AI Task Management System
+**AI-powered task intelligence platform**
+
+An intelligent task management system that automatically **classifies, prioritizes, and assigns tasks** using NLP and machine learning models. Designed for productivity optimization and enterprise workflows.
+
+**Tech Stack:** Python, Streamlit, Pandas, ML  
+🔗 **Live Demo:** https://aitaskmanager28-bxahukjkzparonrie229uy.streamlit.app/
+
+---
+
+### 🎯 AI Career & Skills Advisor
+**Personalized career guidance using NLP**
+
+An AI-driven chatbot that analyzes user input and recommends **career paths, skills, and learning roadmaps** using natural language understanding.
+
+**Tech Stack:** JavaScript, OpenAI API, HTML, CSS  
+🔗 **Live Demo:** https://sunny-rabanadas-bd1f6f.netlify.app/
+
+---
+
+### 🚦 Smart Traffic Management System
+**Computer vision–based traffic optimization**
+
+A real-time traffic monitoring system using **YOLOv8 and OpenCV** to detect vehicles and dynamically optimize traffic signals for smart city environments.
+
+**Tech Stack:** Python, OpenCV, YOLOv8
+
+---
+
+### 🐾 ANIMUS – Intelligent Animal Safety System
+**AI-assisted safety & alert platform**
+
+A smart system designed to **prevent animal–vehicle collisions** using geolocation, ML analytics, and real-time alerts for highways and rural roads.
+
+**Tech Stack:** FastAPI, Firebase, Android, ML
+
+---
+
+### 🎬 Movie Recommendation Engine
+**Personalized content recommendation system**
+
+A machine learning–based movie recommender using **collaborative filtering and NLP-based similarity analysis**, deployed as an interactive web app.
+
+**Tech Stack:** Python, scikit-learn, Streamlit
+
+---
+
+## 📊 GitHub Activity & Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ABHIJEET-0001&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ABHIJEET-0001&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ABHIJEET-0001&theme=tokyo-night&hide_border=true&area=true"/>
+</p>
+
+---
+
+## 🤝 Let’s Connect
+
+- 💼 Open to **internships, research roles, and software/AI engineering opportunities**
+- 🤝 Interested in **collaborative AI & open-source projects**
+- 📚 Constantly improving skills through real-world problem solving
+
+---
+
+<p align="center">
+  <i>"Code with clarity. Build with purpose. Learn without limits."</i><br><br>
+  <b>— Abhijeet Kasera</b>
+</p>
