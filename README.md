@@ -88,7 +88,7 @@ A real-time traffic monitoring system using **YOLOv8 and OpenCV** to detect vehi
 ### 🐾 ANIMUS – Intelligent Animal Safety System
 **AI-assisted safety & alert platform**
 
-A smart system designed to **prevent animal–vehicle collisions** using geolocation, ML analytics, and real-time alerts for highways and rural roads.
+A smart system designed to **prevent animal–vehicle collisions** using geolocation, ML analytics, and real-time alerts for highways and rural roads. is aslo more real world
 
 **Tech Stack:** FastAPI, Firebase, Android, ML
 
