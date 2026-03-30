@@ -117,6 +117,7 @@ A machine learning–based movie recommender using **collaborative filtering and
 ---
 
 ## 🤝 Let’s Connect
+abhijeetkasera08@gmail.com
 
 - 💼 Open to **internships, research roles, and software/AI engineering opportunities**
 - 🤝 Interested in **collaborative AI & open-source projects**
