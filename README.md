@@ -122,6 +122,7 @@ abhijeetkasera08@gmail.com
 - 💼 Open to **internships, research roles, and software/AI engineering opportunities**
 - 🤝 Interested in **collaborative AI & open-source projects**
 - 📚 Constantly improving skills through real-world problem solving
+-  solve daily propbelm solve new things 
 
 ---
 
