@@ -115,149 +115,24 @@ An **interactive fast-paced reaction game** built with **Next.js and v0**. Test 
 
 <div align="center">
 
-### 📈 Live Contribution Stats
+### 📈 Contribution Streak
+[![GitHub Streak](https://streak-stats.demolab.com?user=ABHIJEET-0001&theme=tokyonight&hide_border=true)](https://github.com/ABHIJEET-0001)
 
+### 🔥 Activity Graph
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ABHIJEET-0001&theme=tokyo-night&hide_border=true)](https://github.com/ABHIJEET-0001)
+
+### 📊 GitHub Stats
 [![Abhijeet's GitHub stats](https://github-readme-stats.vercel.app/api?username=ABHIJEET-0001&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)](https://github.com/ABHIJEET-0001)
 
-### 🔥 Contribution Activity Graph
-
-[![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=ABHIJEET-0001&theme=tokyo-night&hide_border=true)](https://github.com/ABHIJEET-0001)
-
-### 📚 Most Used Languages
-
+### 📚 Top Languages
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ABHIJEET-0001&theme=tokyonight&layout=compact&hide_border=true)](https://github.com/ABHIJEET-0001)
 
-### ✅ Quick Stats Summary
-
-- **Total Commits:** 684+ 📝
-- **Current Streak:** 🔥 29 days
-- **Longest Streak:** 29 days  
-- **Most Used Language:** Python 🐍
-- **Last Contribution:** Today ✅
+### 📌 Profile Stats
+![Profile Views](https://komarev.com/ghpvc/?username=ABHIJEET-0001&label=Profile%20Views&color=00d9ff&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/ABHIJEET-0001?label=Followers&style=for-the-badge&color=00d9ff)
+![Stars](https://img.shields.io/github/stars/ABHIJEET-0001?affiliations=OWNER&style=for-the-badge&color=00d9ff)
 
 </div>
-
----
-
-## 📅 Daily Work & Commits Per Day (Last 30 Days)
-
-<div align="center">
-
-### 🔥 Commits Per Day Visualization
-
-```
-Commits
-   20 |                    ╱╲
-   18 |    ╱╲              │ ╲
-   16 |   ╱  ╲            ╱   ╲
-   14 |  ╱    ╲          ╱     ╲
-   12 | ╱      ╲        ╱       ╲          ╱
-   10 |        ╲      ╱         ╲        ╱
-    8 |         ╲    ╱           ╲      ╱
-    6 |          ╲  ╱             ╲    ╱
-    4 |           ╲╱               ╲  ╱
-    2 |                             ╲╱
-    0 └─────────────────────────────────────── Days
-      1  5  10  15  20  25  30
-```
-
-### 📊 Daily Activity Breakdown
-
-**Time Distribution Across Day:**
-```
-🌅 Morning (6AM-12PM):    ████████████████░░░░░░░ 40% (Peak: 10AM-11AM)
-🌞 Afternoon (12PM-6PM):  ████████████████░░░░░░░ 35% (Peak: 2PM-3PM)
-🌙 Evening (6PM-12AM):    ███████░░░░░░░░░░░░░░░░ 20%
-🌃 Night (12AM-6AM):      ██░░░░░░░░░░░░░░░░░░░░░ 5%
-```
-
-**Weekly Pattern:**
-```
-MON  TUE  WED  THU  FRI  SAT  SUN
- 12   14   11   18   15    8    5  (commits per day average)
-████ ████ ███  ███  ████  ██   ██  (visual distribution)
-```
-
-### 🎯 Commit Activity Table
-
-| Day | Commits | Status | Peak Time |
-|-----|---------|--------|-----------|
-| 🔵 Mon | 12 | Active | 11 AM |
-| 🟦 Tue | 14 | High | 2 PM |
-| 🟩 Wed | 11 | Moderate | 10 AM |
-| 🔴 Thu | 18 | **Peak** 🔥 | 3 PM |
-| 🟠 Fri | 15 | High | 1 PM |
-| 🟡 Sat | 8 | Low | 9 AM |
-| ⚪ Sun | 5 | Minimal | 6 PM |
-
-**Weekly Total:** 83 commits  
-**Daily Average:** 11.9 commits  
-**Peak Day:** Thursday 🔥 (18 commits)
-
-### 📈 Project Commit Distribution
-
-```
-AI_Smart_Traffic_Management:  ████████████████████░ 21 (32%)
-v0-Reaction-Counting-Game:    ██████████████░░░░░░░ 14 (21%)
-Data Science/ML Projects:     ██████████████░░░░░░░ 12 (18%)
-Other Projects & Utils:       ██████████████░░░░░░░ 18 (29%)
-─────────────────────────────────────────────────────
-Total This Month:             65+ commits ✅
-```
-
-### 💻 Code Distribution by Language
-
-```
-Python       ████████████████████ 75.8% (Main ML/AI work)
-TypeScript   ███░░░░░░░░░░░░░░░░░ 15.0% (Web development)
-JavaScript   ██░░░░░░░░░░░░░░░░░░░ 5.8% (Frontend)
-CSS/HTML     ░░░░░░░░░░░░░░░░░░░░░ 3.4% (Styling)
-```
-
-### 🏆 Consistency Metrics
-
-```
-Last 7 Days Streak:   ═══════════════════ 95% 🔥🔥🔥
-Last 30 Days:         ══════════════════░ 92% ✅✅
-Last 90 Days:         ═════════════════░░ 88% 👍👍
-YTD Consistency:      ════════════════░░░ 85% 📈
-```
-
-### ⚡ Activity Insights
-
-- **Most Productive:** Thursday afternoons (3-4 PM) 🔥
-- **Active Streak:** 29 consecutive days
-- **Average Commits/Day:** ~12 commits
-- **Code Quality:** Consistent across projects
-- **Languages:** Python-focused (ML/AI), with web tech support
-- **Peak Season:** Mid-week (Tue-Fri) shows 64% of weekly commits
-
-</div>
-
----
-
-### 📌 Recent Projects Activity
-
-- 🚦 **AI_Smart_Traffic_Management** - 21 commits | Production Ready ✅
-- 🎮 **v0-Reaction-Counting-Game** - 14 commits | Active Development ✅  
-- 📚 **Data Science Projects** - Multiple active | Ongoing ✅
-
-### 📅 Daily Activity Breakdown
-
-```
-Weekly Contributions Pattern:
-Mon   Tue   Wed   Thu   Fri   Sat   Sun
- 12 +  14 +  11 +  18 +  15 +   8 +   5 = 83 commits/week
-███████████ ████████████ ██████████ ████████████ ██████████ ████ ███
-(Peak days: Thursday 🔥, Friday 📈, Tuesday 📊)
-```
-
-### 🎯 Contribution Summary
-
-**2025 Contributions:** 684+ total  
-**Most Active:** Python, ML/AI projects  
-**Consistency:** High (29-day streak) 🔥  
-**Last Update:** Today ✅
 
 ---
 
