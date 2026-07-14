@@ -1,295 +1,155 @@
-<div align="center"></div>
+# <h1 align="center">Hi 👋 I'm Abhijeet Kasera</h1>
 
-<div align="center">
+<h3 align="center">
+Data Science Intern @ Celebal Technologies • Full Stack Developer • AI/ML Engineer
+</h3>
 
+<p align="center">
 
+Typing SVG
 
-</div>🎯 Professional Summary
+Profile Views
 
-AI/ML Systems Engineer | Full-Stack Developer | Computer Vision Specialist
+GitHub Followers
 
-Results-driven software engineer with proven expertise in designing, developing, and deploying production-grade AI/ML systems. Specialized in building scalable backend architectures, implementing advanced machine learning models, and solving complex real-world problems through intelligent automation.
+LinkedIn
 
-Key Focus Areas:
+Portfolio
 
-🤖 AI/ML Systems Architecture & Optimization
+Email
 
-🏗️ Scalable Backend Infrastructure & Microservices
+</p>
 
-👁️ Computer Vision & Real-Time Processing
+---
 
-📊 Data Science & MLOps
+# 👨‍💻 About Me
 
-🚀 Production Deployment & Infrastructure as Code
+Brief introduction
 
-💻 Technical Stack
+Current Internship
 
-Programming Languages
+Current Learning
 
-<div align="center">
+Interests
 
+Open for Opportunities
 
+---
 
-</div>
+# 💼 Experience
 
-AI & Machine Learning Frameworks
+Celebal Technologies
 
-<div align="center">
+Napses Technologies
 
+Research Internship
 
+IBM Internship
 
-</div>
+---
 
-Backend & Cloud Infrastructure
+# 🛠 Tech Stack
 
-<div align="center">
+Languages
 
+Frontend
 
+Backend
 
-</div>
+AI/ML
 
-Frontend & Deployment
+Databases
 
-<div align="center">
+Cloud
 
+Tools
 
+---
 
-</div>
+# 🚀 Featured Projects
 
-🏆 Featured Projects
+Smart Traffic Management
 
-1. 🤖 AI Task Management System
+AI Task Manager
 
-Enterprise Productivity Suite with Intelligent Task Automation
+ANIMUS
 
-An advanced AI-driven task management platform leveraging Natural Language Processing and machine learning for intelligent task classification, prioritization, and routing.
+Career Advisor
 
-Technical Highlights:
+Movie Recommendation
 
-Deep learning-based classification (94% accuracy)
+---
 
-Real-time ML-driven priority optimization
+# 🏆 Achievements
 
-Intelligent task routing with capacity analysis
+Hackathons
 
-Semantic NLP analysis
+Internships
 
-Comprehensive analytics dashboard
+Certifications
 
-Stack: Python • Streamlit • TensorFlow • Pandas • scikit-learnMetrics: 94% Accuracy | <100ms Response TimeLive Demo
+Awards
 
-2. 🎯 AI Career & Skills Advisor
+---
 
-Intelligent Career Guidance Platform
+# 📊 GitHub Analytics
 
-Conversational AI system delivering personalized career counseling through competency analysis, skill gap identification, and market trend integration.
+GitHub Stats
 
-Technical Highlights:
+GitHub Streak
 
-Context-aware conversational AI with advanced NLP
+Top Languages
 
-Personalized skill gap analysis
+Contribution Graph
 
-AI-generated learning pathways
+GitHub Trophy
 
-Real-time job market analytics
+---
 
-ML-based career trajectory predictions
+# 📜 Certifications
 
-LinkedIn & GitHub profile integration
+IBM
 
-Stack: JavaScript • OpenAI API • REST Architecture • HTML5 • CSS3Impact: 5,000+ Active Users | 4.8/5 Star RatingLive Demo
+AWS
 
-3. 🚦 Smart Traffic Management System
+Celebal
 
-Real-Time Traffic Optimization Using Computer Vision
+Java
 
-Sophisticated traffic monitoring system utilizing YOLOv8 for vehicle detection, multi-object tracking, and ML-based signal optimization.
+AI
 
-Technical Highlights:
+---
 
-Real-time vehicle detection (95%+ accuracy)
+# 🌱 Currently Learning
 
-Intelligent signal timing optimization
+LLMs
 
-Multi-camera vehicle tracking
+Agentic AI
 
-Live traffic density heatmaps
+System Design
 
-35-40% reduction in average wait times
+MLOps
 
-Smart city infrastructure ready
+Cloud
 
-Stack: Python • YOLOv8 • OpenCV • CUDA • NumPyPerformance: 30 FPS Real-Time | 95.2% Detection Accuracy | 35% Traffic Reduction
+---
 
-4. 🐾 ANIMUS — Animal Safety System
+# 🤝 Connect
 
-IoT & AI-Powered Wildlife Collision Prevention
+Email
 
-Comprehensive platform preventing wildlife-vehicle collisions through GPS geolocation, predictive analytics, and mobile technology integration.
+LinkedIn
 
-Technical Highlights:
+GitHub
 
-Precision real-time GPS tracking with geofencing
+Portfolio
 
-ML-based collision prediction
+LeetCode
 
-Native Android application
+Codeforces
 
-Intelligent alert prioritization
+---
 
-Interactive heatmap visualization
+# 💡 Quote
 
-Enterprise-grade security
-
-Stack: FastAPI • Firebase • Android SDK • Python • ML ModelsImpact: 150+ Animal Lives Saved in Pilot Deployment
-
-5. 🎬 Movie Recommendation Engine
-
-Hybrid Recommendation System at Scale
-
-Production-ready recommendation engine combining collaborative filtering and NLP-based content analysis for personalized suggestions.
-
-Technical Highlights:
-
-Hybrid architecture (Collaborative + Content-Based filtering)
-
-NLP-powered content similarity analysis
-
-Advanced user behavior clustering
-
-Cold-start problem resolution
-
-A/B testing framework
-
-Interactive Streamlit interface
-
-Stack: Python • scikit-learn • Streamlit • Pandas • Matrix FactorizationPerformance: RMSE: 0.89 | 87% Accuracy | <50ms Retrieval
-
-📈 Impact & Achievements
-
-Metric
-
-Achievement
-
-Production Projects
-
-5+ AI/ML Applications
-
-Model Performance
-
-94%+ Classification Accuracy
-
-Real-World Impact
-
-150+ Lives Saved
-
-User Base
-
-5,000+ Active Users
-
-System Performance
-
-<100ms API Response Time, 30 FPS Processing
-
-Technical Coverage
-
-20+ Technologies Across Full Stack
-
-Data Scale
-
-1M+ Records Processed
-
-Deployment
-
-Multi-platform: Web, Mobile, Cloud
-
-🎓 Continuous Learning
-
-Active Focus Areas:
-
-Advanced Deep Learning & Neural Architecture Design
-
-Distributed Systems & Microservices Architecture
-
-MLOps & Model Production Optimization
-
-Large Language Models (LLMs) & Transformer Architecture
-
-Research Paper Review & Technical Publications
-
-📊 GitHub Analytics
-
-<div align="center">
-
-
-
-
-
-
-
-</div>
-
-🤝 Open to Opportunities
-
-Actively seeking roles and collaborations in:
-
-Full-Time Roles
-
-Collaborations
-
-Open Source
-
-AI/ML Engineering
-
-Research Partnerships
-
-Contributing & Maintaining
-
-Systems Architecture
-
-Technical Co-founder
-
-Community Projects
-
-Backend Infrastructure
-
-Startup Ventures
-
-Knowledge Sharing
-
-Areas of Interest:
-
-✅ AI/ML Systems Architecture
-
-✅ Scalable Backend Infrastructure
-
-✅ Computer Vision Applications
-
-✅ Data Science & Analytics
-
-✅ Research-to-Production Pipeline
-
-✅ Technical Leadership
-
-📞 Let's Connect
-
-<div align="center">
-
-
-
-Email: abhijeetkasera08@gmail.comLocation: Rajasthan, India 🇮🇳
-
-</div>
-
-<div align="center">
-
-💡 Philosophy
-
-"Engineer solutions that matter. Build systems that scale. Learn relentlessly."
-
-"The intersection of AI and real-world problems is where innovation happens."
-
-Crafted with ❤️ by Abhijeet KaseraLast Updated: July 2026
-
-</div>
+Your quote
